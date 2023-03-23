@@ -1,9 +1,16 @@
+body{
+    margin: 0px;
+}
 
-*{padding: 0;margin: 0;box-sizing: border-box; font-famyly: Helvetica;}
-/*cabeçalho*/
-header{
-	background-color: #3db36b;
-	color: #fff;
-	padding: 15px;
-	text-align: center;
+.Banner{
+    padding: 10px;
+    background-color: #2b078f;
+    color: #fff
+
+}
+.Titulo{
+    text-align: center;
+}
+.buttons{
+    p
 }
